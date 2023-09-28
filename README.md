@@ -12,7 +12,7 @@ Production Ready verison coming soon! Check out the the initial protoptye for fo
 
 ## Getting Started
 
-Follow these steps to set up and run CrowdCoin on your local machine:
+Follow these steps to set up and run TokenTalk on your local machine:
 
 ### Installation
 
